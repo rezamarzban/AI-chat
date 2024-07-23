@@ -1,2 +1,2 @@
 # AI-chat
-Local AI chat use Llama like as chatGPT
+AI chat same as chatGPT with local Llama weights model
